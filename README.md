@@ -1,9 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Moodambail Pawan </h1>
-<h3 align="center">TStudent</h3>
+<h3 align="center">Student</h3>
 
-<img align="right" alt="Coding" width="400" src="codefather.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spartan-2&label=Profile%20views&color=0e75b6&style=flat" alt="spartan-2" /> </p>
 
